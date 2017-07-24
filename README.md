@@ -25,7 +25,7 @@ If you hold you hands in front of you, touch your pointer finger to your thumb, 
 
 ## Attire
 
-### Suite Jacket
+### Suit Jacket
 
 **Sitting**: In all cases unbutton the suit buttons.
 

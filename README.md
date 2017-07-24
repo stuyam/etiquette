@@ -33,5 +33,5 @@ If you hold you hands in front of you, touch your pointer finger to your thumb, 
   * **Standing**: Always button the button.
 2. **Two** button suit
   * **Standing**: Always button the TOP button.
-3. **One** button suit
+3. **Three** button suit
   * **Standing**: Always button the MIDDLE button and optionally the TOP button.
